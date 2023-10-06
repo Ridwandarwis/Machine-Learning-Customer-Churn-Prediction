@@ -15,23 +15,6 @@ This project is a machine learning classifier for predicting whether a bank cust
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-Click [here](https://customerchurnpredict.streamlit.app/) to view the prediction app in your web browser.
-
-Here are some pictures of what the app looks like:
-
-<font size=4 color="#ffffff">1. Prediction Page</font>
-
-<hr><br>
-<img src="./assets/images/prediction image.png">
-<br>
-
-<br><br>
-<font size=4 color="#ffffff">2. Visualization Page</font>
-<hr><br>
-<img src="./assets/images/viz image.png">
-
 ## Getting Started
 
 ### Prerequisites
@@ -78,8 +61,6 @@ Our machine learning model was trained using a dataset containing [describe your
 - **Model Evaluation:** The model's performance was evaluated using metrics accuracy and F1-score. Cross-validation was used to assess its generalization ability.
 
 - **Hyperparameter Tuning:** We fine-tuned the model's hyperparameters to optimize performance.
-
-For detailed information on the model training process, please refer to the [training notebook](https://github.com/juliusmarkwei/Customer-Churn-EDA-Balancing-and-ML/notebooks/main.ipynb).
 
 
 ## Contributing
