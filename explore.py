@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 
 # importing dataframe for some exploration purposes
-df = pd.read_csv("./data/raw/Customer-Churn-Records.csv")
+df = pd.read_csv("./data/Customer-Churn-Records.csv")
 
 
 def show_explore_page():
