@@ -38,7 +38,7 @@ To use my application, follow this steps below to successfully install and run t
 git clone https://github.com/Ridwandarwis/Machine-Learning-Customer-Churn-Prediction.git
 
 # Change directory
-cd Customer-Churn-EDA-Balancing-and-ML/
+cd Machine-Learning-Customer-Churn-Prediction/
 
 # Install dependencies
 pip install -r requirements.txt
