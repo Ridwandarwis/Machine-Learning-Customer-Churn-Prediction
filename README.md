@@ -35,7 +35,7 @@ To use my application, follow this steps below to successfully install and run t
 
 ```bash
 # Clone the repository
-git clone https://github.com/juliusmarkwei/Customer-Churn-EDA-Balancing-and-ML.git
+git clone https://github.com/Ridwandarwis/Machine-Learning-Customer-Churn-Prediction.git
 
 # Change directory
 cd Customer-Churn-EDA-Balancing-and-ML/
