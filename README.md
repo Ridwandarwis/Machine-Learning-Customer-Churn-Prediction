@@ -19,6 +19,28 @@ Check my app using this link
 - [License](#license)
 
 ## Getting Started
+## Demo
+
+Click [here](https://customerchurnpredict.streamlit.app/) to view the prediction app in your web browser.
+
+Here are some pictures of what the app looks like:
+
+<font size=4 color="#ffffff">1. Home Page</font>
+
+<hr><br>
+<img src="./Pict/Home image.png">
+<br>
+
+<font size=4 color="#ffffff">2. Prediction Page</font>
+
+<hr><br>
+<img src="./Pict/prediction image.png">
+<br>
+
+<br><br>
+<font size=4 color="#ffffff">3. Visualization Page</font>
+<hr><br>
+<img src="./Pict/Vis image.png">
 
 ### Prerequisites
 
@@ -55,7 +77,7 @@ streamlit run app.py
 
 ## Model Training
 
-Our machine learning model was trained using a dataset containing [describe your dataset]. The training process involved the following steps:
+Our machine learning model was trained using a dataset containing. The training process involved the following steps:
 
 - **Data Preprocessing:** We performed data cleaning, handled missing values, and encoded categorical features as part of data preparation.
 
@@ -70,7 +92,7 @@ Our machine learning model was trained using a dataset containing [describe your
 
 We welcome contributions to improve this project! Whether it's bug reports, feature suggestions, or code contributions, we appreciate your help.
 
-- **Reporting Issues:** If you encounter a problem or have a suggestion, [open an issue](https://github.com/juliusmarkwei/Customer-Churn-EDA-Balancing-and-ML/issues) with details.
+- **Reporting Issues:** If you encounter a problem or have a suggestion, [open an issue]([https://github.com/Ridwandarwis/Machine-Learning-Customer-Churn-Prediction/issues]) with details.
 
 - **Making Pull Requests:** Feel free to submit pull requests for fixes or enhancements. Follow common coding standards and provide clear descriptions for your changes.
 
