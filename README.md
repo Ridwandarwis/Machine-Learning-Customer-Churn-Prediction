@@ -21,26 +21,26 @@ Check my app using this link
 ## Getting Started
 ## Demo
 
-Click [here](https://customerchurnpredict.streamlit.app/) to view the prediction app in your web browser.
+Click [here](https://machine-learning-churn-prediction.streamlit.app/) to view the prediction app in your web browser.
 
 Here are some pictures of what the app looks like:
 
 <font size=4 color="#ffffff">1. Home Page</font>
 
 <hr><br>
-<img src="./Pict/Home image.png">
+<img src="./Pict/Home.png">
 <br>
 
 <font size=4 color="#ffffff">2. Prediction Page</font>
 
 <hr><br>
-<img src="./Pict/prediction image.png">
+<img src="./Pict/prediction.png">
 <br>
 
 <br><br>
 <font size=4 color="#ffffff">3. Visualization Page</font>
 <hr><br>
-<img src="./Pict/Vis image.png">
+<img src="./Pict/Vis.png">
 
 ### Prerequisites
 
