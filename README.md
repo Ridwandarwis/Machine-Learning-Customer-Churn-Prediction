@@ -34,7 +34,7 @@ Here are some pictures of what the app looks like:
 <font size=4 color="#ffffff">2. Prediction Page</font>
 
 <hr><br>
-<img src="./Pict/prediction.png">
+<img src="./Pict/Prediction.png">
 <br>
 
 <br><br>
