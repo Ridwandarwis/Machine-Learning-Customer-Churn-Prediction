@@ -24,9 +24,7 @@ if __name__ == "__main__":
 
     if ok == "Make predictions":
         predict_page()
-    elif ok == "Home":
-        home()
     else:
-        show_explore_page()
+        home()
 
     # tab()
