@@ -172,7 +172,7 @@ def predict_page():
 def tab():
     st.sidebar.write('Contibute to this project using the link below :arrow_down:')
     # Display the image as a clickable link
-    github_repository_url = 'https://github.com/juliusmarkwei/Customer-Churn-EDA-Balancing-and-ML'
+    github_repository_url = 'https://github.com/Ridwandarwis/Machine-Learning-Customer-Churn-Prediction/tree/main'
 
     # Create a link with the image inside it
     st.sidebar.markdown(f'<a href="{github_repository_url}">GitHub</a>', unsafe_allow_html=True)
