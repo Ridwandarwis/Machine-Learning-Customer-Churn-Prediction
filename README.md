@@ -37,10 +37,6 @@ Here are some pictures of what the app looks like:
 <img src="./Pict/Prediction.png">
 <br>
 
-<br><br>
-<font size=4 color="#ffffff">3. Visualization Page</font>
-<hr><br>
-<img src="./Pict/Vis.png">
 
 ### Prerequisites
 
