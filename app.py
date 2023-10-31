@@ -7,7 +7,7 @@ from Home import home
 def explore():
     selection = st.sidebar.selectbox(
         ":Yellow[What do you want to know about my project?]",
-        ("Home","Make predictions", "Explore Data"),
+        ("Home","Make predictions"),
     )
     return selection
 
