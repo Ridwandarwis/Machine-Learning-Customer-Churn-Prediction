@@ -1,6 +1,5 @@
 import streamlit as st
 from main import predict_page, tab
-from explore import show_explore_page
 from Home import home
 
 
